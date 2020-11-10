@@ -41,6 +41,10 @@ const userCases = {
       url: "https://img.alicdn.com/tfs/TB1RoXxixD1gK0jSZFyXXciOVXa-430-430.png"
     },
     {
+      name: "优影人",
+      url: "https://7thart.oss-cn-shanghai.aliyuncs.com/gh_ece8598c698b_258.jpg"
+    },
+    {
       name: "极易推智能获客管理系统",
       url: "https://user-images.githubusercontent.com/3080820/84220162-c44fbb80-ab04-11ea-9ce2-7a29e37b95b9.jpg"
     },
